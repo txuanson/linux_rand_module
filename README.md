@@ -11,7 +11,7 @@ make
 ```
 - Cài đặt module:
 ```sh
-sudo insmod Random
+sudo insmod Random.ko
 ```
 - Xem log:
 ```sh
